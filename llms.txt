@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/onek-asha-niye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Onek Asha Niye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/onek-asha-niye/) |
+| **Get License** | [License this song: Onek Asha Niye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/onek-asha-niye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2276)
 
 ---
 
