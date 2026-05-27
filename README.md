@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অনেক আশা নিয়ে আমি এসেছি তোমার কাছে
+> তোমার ওই মায়াবী চোখে আমার জীবন বাঁচে
+> বুকের ভেতর জ্বলছে আগুন নেশায় ভাসি আজ
+> তোমার ওই রূপের ছটায় আমি ভুলেছি সব লাজ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
