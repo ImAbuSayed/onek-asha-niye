@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Onek Asha Niye
+
+This log tracks the cryptographic history and versioning for the song **Onek Asha Niye** (onek-asha-niye).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:39:33.928766 | `v1` | `89a3e2c77aa7351898d52fec02a5e2e86f39e4038ccbb93697b13dd5a2e09685` | `43d9df862b0ea2b1c40bfd7bef76db4ca627b7ed58d796bfd28ff0528b5e0d66` | `2026-05-28_onek-asha-niye-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
